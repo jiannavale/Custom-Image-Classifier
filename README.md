@@ -1,4 +1,3 @@
 # Custom-Image-Classifier
 
-
-1312312
+https://colab.research.google.com/drive/1Deywayl1g8GiWOoUIGlfl0gBBFqd8fzz?usp=sharing
